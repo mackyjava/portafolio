@@ -174,7 +174,8 @@ nav  li a{
 .background{
 	background-image:url(../img/gatos.gif);
 	background-repeat: no-repeat;
-    background-size:cover;
+  background-size:100%;
+  height: 350px;
 }
 #contacto .background ul {
 	list-style:none;
